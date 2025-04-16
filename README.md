@@ -6,10 +6,10 @@
 
 ## ✅ 已读书目总览（共 3 本）
 
-| 封面 | 书名 | 作者 | 类型 | 评分 | 阅读时间 |
-|------|------|------|------|------|-----------|
-| ![](https://img.shields.io/badge/-哲学-blue) | **人生的智慧** | (德) 叔本华 | 哲学 | ⭐⭐⭐⭐⭐ | 2025.04 |
-| ![](https://img.shields.io/badge/-科学-yellow) | **影响力** | 罗伯特·西奥迪尼 | 心理学 | ⭐⭐⭐⭐ |  |
-| ![](https://img.shields.io/badge/-投资-red) | **穷查理宝典** |  Charlie T. Munger / Peter D. Kaufman | 投资 | ⭐⭐⭐⭐⭐ | 2025.04-未完 |
+|序号| 封面 | 书名 | 作者 | 类型 | 评分 | 阅读时间 |
+|------|------|------|------|------|------|-----------|
+|1| ![](https://img9.doubanio.com/view/subject/l/public/s4619775.jpg) | **人生的智慧** | (德) 叔本华 | ![](https://img.shields.io/badge/-哲学-blue) | ⭐⭐⭐⭐⭐ | 2025.04 |
+|2| ![](https://img.shields.io/badge/-科学-yellow) | **影响力** | 罗伯特·西奥迪尼 | 心理学 | ⭐⭐⭐⭐ |  |
+|3| ![](https://img3.doubanio.com/view/subject/l/public/s28875892.jpg) | **穷查理宝典** |  Charlie T. Munger / Peter D. Kaufman |  ![](https://img.shields.io/badge/-投资-red)  | ⭐⭐⭐⭐⭐ | 2025.04-未完 |
 
-| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... | ... |
